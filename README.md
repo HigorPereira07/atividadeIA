@@ -1,4 +1,4 @@
-# atividadeIA
+# atividadeIA // AF 11 6AN CC
 Script para localizar arquivos através de palavras-chave. 
 
 # Integrantes
@@ -9,10 +9,10 @@ Matheus Fermino
 Mateo Rodriguez
 Nicolas Medina
 
-# problema
+# Problema
   - Dificuldade na localização de arquivos, dentro de uma grande base de dados
     
-# solução
+# Solução
 HuggingFace (para gerar embeddings)
   - Transformamos nomes de arquivos em vetores numéricos que representam o significado do texto.,
 
