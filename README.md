@@ -2,12 +2,12 @@
 Script para localizar arquivos através de palavras-chave. 
 
 # Integrantes
-Gabriel Quirino
-Higor Rocha
-Julio Cesar
-Matheus Fermino
-Mateo Rodriguez
-Nicolas Medina
+Gabriel Quirino <br>
+Higor Rocha <br>
+Julio Cesar <br>
+Matheus Fermino <br>
+Mateo Rodriguez <br>
+Nicolas Medina <br>
 
 # Problema
   - Dificuldade na localização de arquivos, dentro de uma grande base de dados
@@ -22,7 +22,7 @@ FAISS (Vector Database)
 Python + Loop interativo
 
 O usuário pode:
-digitar o que procura
-o modelo gera embeddings
-o FAISS encontra o arquivo mais semântico
-o sistema pergunta se ele quer continuar
+digitar o que procura <br>
+o modelo gera embeddings <br>
+o FAISS encontra o arquivo mais semântico <br>
+o sistema pergunta se ele quer continuar <br>
