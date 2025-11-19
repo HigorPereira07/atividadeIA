@@ -1,4 +1,4 @@
-# atividadeIA // AF 11 6AN CC
+# atividadeIA - AF 11 6AN CC
 Script para localizar arquivos através de palavras-chave. 
 
 # Integrantes
